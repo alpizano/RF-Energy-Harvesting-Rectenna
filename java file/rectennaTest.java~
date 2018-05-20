@@ -1,0 +1,14 @@
+public class rectennaTest
+{
+  public static void main(String [] args)
+  {
+    double h = 0.813; // dimensions are in millimeters
+    double Er = 3.55; // value of dielectric constant of substrate
+    double C= 3.00*10^8; // value of speed of light
+    
+    double W = (C/2)*sqrt((2/(Er+1));
+    System.out.println("The value of the width of the antenna is: " +W);
+    
+  }
+  
+}
