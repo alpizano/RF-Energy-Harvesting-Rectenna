@@ -1,4 +1,4 @@
-clear
+lclear
 clc
 
 C = 3*10^8;
